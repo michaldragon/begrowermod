@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "begrower:blocks/dryier_bot",
+    "up": "begrower:blocks/dryier_bot",
+    "north": "begrower:blocks/dryier_front",
+    "east": "begrower:blocks/dryier_sides",
+    "south": "begrower:blocks/dryier_sides",
+    "west": "begrower:blocks/dryier_sides",
+    "particle": "begrower:blocks/dryier_bot"
+  }
+}

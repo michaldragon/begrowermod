@@ -1,0 +1,78 @@
+{
+  "mod_elements": [
+    {
+      "name": "DryingInProgress",
+      "type": "particle",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "drying_in_progress"
+    },
+    {
+      "name": "BeGrower",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "be_grower"
+    },
+    {
+      "name": "FixingGadget",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fixing_gadget"
+    },
+    {
+      "name": "PlantDryierParticleSpawningCondition",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plant_dryier_particle_spawning_condition",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "PlantDryier",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plant_dryier"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabbe_grower": "Be Grower",
+      "block.begrower.plant_dryier": "Plant Dryier",
+      "item.begrower.fixing_gadget": "Fixing Gadget"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "begrower",
+    "modName": "beGrower",
+    "version": "1.0.0",
+    "author": "acer, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.begrower",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200345616
+}

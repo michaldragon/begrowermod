@@ -1,0 +1,29 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "fixinggadget",
+    "customModelName": "Normal",
+    "name": "Fixing Gadget",
+    "specialInfo": [
+      "Used to fix broken machine in this mod"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:BeGrower"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "begrower:block/plant_dryier"
+    },
+    "facing=east": {
+      "model": "begrower:block/plant_dryier",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "begrower:block/plant_dryier",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "begrower:block/plant_dryier",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 34,
+  "_type": "tab",
+  "definition": {
+    "name": "Be Grower",
+    "icon": {
+      "value": "Blocks.TALLGRASS"
+    },
+    "showSearch": true
+  }
+}
