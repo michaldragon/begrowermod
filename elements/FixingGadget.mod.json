@@ -19,7 +19,11 @@
     "enchantability": 2,
     "damageVsEntity": 4.0,
     "usageCount": 100,
-    "blocksAffected": [],
+    "blocksAffected": [
+      {
+        "value": "CUSTOM:PlantDryier"
+      }
+    ],
     "hasGlow": true,
     "repairItems": [],
     "immuneToFire": false,

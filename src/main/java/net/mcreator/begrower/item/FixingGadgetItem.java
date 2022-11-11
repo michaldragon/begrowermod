@@ -19,6 +19,7 @@ import net.minecraft.network.chat.Component;
 import net.minecraft.core.BlockPos;
 
 import net.mcreator.begrower.init.BegrowerModTabs;
+import net.mcreator.begrower.init.BegrowerModBlocks;
 
 import java.util.List;
 
@@ -32,7 +33,7 @@ public class FixingGadgetItem extends Item {
 
 	@Override
 	public float getDestroySpeed(ItemStack itemstack, BlockState blockstate) {
-		return List.of().contains(blockstate.getBlock()) ? 4f : 1;
+		return List.of(BegrowerModBlocks.PLANT_DRYIER.get()).contains(blockstate.getBlock()) ? 4f : 1;
 	}
 
 	@Override
