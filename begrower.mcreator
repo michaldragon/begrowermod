@@ -47,6 +47,11 @@
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
+    "pl_pl": {
+      "itemGroup.tabbe_grower": "Byc Hodowca",
+      "block.begrower.plant_dryier": "Osuszacz Roslin",
+      "item.begrower.fixing_gadget": "Narzedzie naprawcze"
+    },
     "en_us": {
       "itemGroup.tabbe_grower": "Be Grower",
       "block.begrower.plant_dryier": "Plant Dryier",
@@ -74,5 +79,5 @@
     "modElementsPackage": "net.mcreator.begrower",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202200345616
+  "mcreatorVersion": 202200346416
 }
